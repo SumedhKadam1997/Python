@@ -7,7 +7,7 @@ soup = BeautifulSoup(r,"html5lib")
 
 title = []
 content = []
-
+a = 0
 
 for i in soup.find_all("h2", {"class": "art-postheader entry-title"}):
 	title.append(i.getText())
