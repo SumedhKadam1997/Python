@@ -1,1 +1,0 @@
-practice of matplotlib in jupyter notebook
