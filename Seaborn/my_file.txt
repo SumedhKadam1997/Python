@@ -1,1 +1,0 @@
-In this folder I have notebooks of my seaborn practice sessions
